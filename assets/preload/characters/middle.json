@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "middle",
+			"fps": 24,
+			"name": "threesonic",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Middle",
+	"position": [
+		-85,
+		310
+	],
+	"healthicon": "notsonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		165
+	],
+	"camera_position": [
+		-105,
+		5
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
